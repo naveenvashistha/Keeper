@@ -5,16 +5,16 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@emotion/react": "11.6.0",
-    "@emotion/styled": "11.6.0",
-    "@mui/icons-material": "5.1.1",
-    "@mui/material": "5.1.1",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-scripts": "4.0.3"
+    "@emotion/react": "11.11.0",
+    "@emotion/styled": "11.11.0",
+    "@mui/icons-material": "5.11.16",
+    "@mui/material": "5.13.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
-    "typescript": "3.3.3"
+    "typescript": "3.2.1"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -37,7 +37,7 @@ function CreateArea(props) {
         onChange = {createBoxChange}
         onClick = {changeState} />
         <Zoom in={renderState}>
-        <Fab size = "small">
+        <Fab size = "small" type="submit">
         <AddIcon />
         </Fab>
         </Zoom>
